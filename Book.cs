@@ -7,6 +7,6 @@ using System.Threading.Tasks;
 namespace Virtual_Book_System
 {
     internal class Book
-    {
+    { // test
     }
 }

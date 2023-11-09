@@ -9,5 +9,6 @@ namespace Virtual_Book_System
     internal class Book
     { // test
       //toms kommentar
+      //Emmakommentar
     }
 }

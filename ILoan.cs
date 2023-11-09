@@ -8,5 +8,6 @@ namespace Virtual_Book_System
 {
     internal interface ILoan
     {
+        //Hejsan
     }
 }
